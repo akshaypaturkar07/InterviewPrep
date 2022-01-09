@@ -1,4 +1,4 @@
-package com.practice.mettl.nagarro;
+package com.practice.nagarro.mettl;
 
 /**
  *  Programme to convert C++ class name to Java class name

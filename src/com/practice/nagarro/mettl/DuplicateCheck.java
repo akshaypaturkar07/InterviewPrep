@@ -1,4 +1,4 @@
-package com.practice.mettl.nagarro;
+package com.practice.nagarro.mettl;
 
 import java.util.ArrayList;
 import java.util.HashMap;
