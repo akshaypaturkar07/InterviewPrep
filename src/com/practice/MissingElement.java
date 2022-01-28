@@ -1,3 +1,5 @@
+package com.practice;
+
 public class MissingElement {
     public static void main(String[] args) {
         int[] nums1 = {10,1,2,6,9,13};
